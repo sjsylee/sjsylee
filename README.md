@@ -1,5 +1,4 @@
-# Seungjun Lee
-
+Product-minded frontend developer who turns complex ideas into polished, practical user experiences.
 I build user-centered products with a strong focus on UI/UX, real-world problem solving, and end-to-end implementation.  
 My work spans frontend development, desktop applications, automation tools, and backend-driven workflows.
 
