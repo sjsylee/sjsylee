@@ -1,13 +1,11 @@
 # Seungjun Lee
 
-Product-minded frontend developer who turns complex ideas into polished, practical user experiences.
-
 I build user-centered products with a strong focus on UI/UX, real-world problem solving, and end-to-end implementation.  
 My work spans frontend development, desktop applications, automation tools, and backend-driven workflows.
 
 ---
 
-## Tech Stack
+## 🔨 Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -22,7 +20,7 @@ My work spans frontend development, desktop applications, automation tools, and 
 
 ---
 
-## About Me
+## 👋🏼 About Me
 
 - Building polished, user-focused products with a strong attention to UI/UX
 - Experienced in React, Next.js, Electron, and Python-based workflows
@@ -31,7 +29,7 @@ My work spans frontend development, desktop applications, automation tools, and 
 
 ---
 
-## Featured Interests
+## 🔥 Featured Interests
 
 - Frontend Engineering
 - Desktop Application Development
