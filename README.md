@@ -9,7 +9,6 @@ My experience spans frontend development, desktop applications, automation tools
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -27,7 +26,6 @@ My experience spans frontend development, desktop applications, automation tools
 ![SQLite](https://img.shields.io/badge/SQLite-0F3B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1F6F43?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-BD2C2C?style=for-the-badge&logo=redis&logoColor=white)
 
 ### State & UI
 ![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logoColor=white)
