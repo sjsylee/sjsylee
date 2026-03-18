@@ -32,8 +32,7 @@ My experience spans frontend development, desktop applications, automation tools
 ### State & UI
 ![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine&logoColor=white)
-![Tamagui](https://img.shields.io/badge/Tamagui-222222?style=for-the-badge&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Automation
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
