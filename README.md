@@ -1,6 +1,7 @@
 Product-minded frontend developer who turns complex ideas into polished, practical user experiences.
+
 I build user-centered products with a strong focus on UI/UX, real-world problem solving, and end-to-end implementation.  
-My work spans frontend development, desktop applications, automation tools, and backend-driven workflows.
+My experience spans frontend development, desktop applications, automation tools, and backend-driven workflows.
 
 ---
 
@@ -48,6 +49,8 @@ My work spans frontend development, desktop applications, automation tools, and 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
 
+---
+
 ## 👋🏼 About Me
 
 - Building polished, user-focused products with a strong attention to UI/UX
@@ -63,4 +66,5 @@ My work spans frontend development, desktop applications, automation tools, and 
 - Desktop Application Development
 - UI/UX Implementation
 - Automation Tools
+- AI-Assisted Development Workflows
 - Backend-Driven Product Workflows
