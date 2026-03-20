@@ -1,7 +1,25 @@
 Product-minded frontend developer who turns complex ideas into polished, practical user experiences.
-
 I build user-centered products with a strong focus on UI/UX, real-world problem solving, and end-to-end implementation.  
 My experience spans frontend development, desktop applications, automation tools, and backend-driven workflows.
+
+---
+
+## 🤖 AI-Augmented Development
+
+I actively integrate AI Agents into my development workflow — not just as code assistants, but as **collaborative problem-solving partners** across the full product lifecycle.
+
+### How I work with AI Agents
+
+| Phase | How AI Agents Are Involved |
+|---|---|
+| 🧩 **Product Thinking** | Requirement breakdown, edge case discovery, UX critique |
+| 🎨 **UI/UX Design** | Component architecture suggestions, design system consistency checks |
+| 💻 **Development** | Pair programming, code review, refactoring, boilerplate generation |
+| 🧪 **QA & Testing** | Test case generation, selector writing for Playwright/Puppeteer |
+| 📦 **Automation** | Workflow scripting, data pipeline drafting, CI/CD config |
+| 📝 **Documentation** | API docs, README generation, inline comments |
+
+> I treat AI Agents (Claude, ChatGPT, etc.) as a **senior collaborator in the loop** — leveraging them to move faster while maintaining full ownership of architecture and product decisions.
 
 ---
 
@@ -42,9 +60,12 @@ My experience spans frontend development, desktop applications, automation tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
-### AI Tools
+### AI Tools & Agents
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -52,6 +73,7 @@ My experience spans frontend development, desktop applications, automation tools
 
 - Building polished, user-focused products with a strong attention to UI/UX
 - Experienced in React, Next.js, Electron, and Python-based workflows
+- Integrate AI Agents (Claude, ChatGPT) as active collaborators across design, development, and automation stages
 - Interested in practical automation, desktop applications, and product-driven development
 - Focused on turning complex requirements into intuitive and reliable solutions
 
@@ -63,5 +85,5 @@ My experience spans frontend development, desktop applications, automation tools
 - Desktop Application Development
 - UI/UX Implementation
 - Automation Tools
-- AI-Assisted Development Workflows
+- **AI Agent-Augmented Development Workflows**
 - Backend-Driven Product Workflows
