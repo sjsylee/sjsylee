@@ -17,7 +17,7 @@ I actively integrate AI Agents into my development workflow — not just as code
 | 💻 **Development** | Pair programming, code review, refactoring, boilerplate generation |
 | 🧪 **QA & Testing** | Test case generation, selector writing for Playwright/Puppeteer |
 | 📦 **Automation** | Workflow scripting, data pipeline drafting, CI/CD config |
-| 📝 **Documentation** | API docs, README generation, inline comments |
+| 📝 **Documentation** | API docs, inline comments |
 
 > I treat AI Agents (Claude, ChatGPT, etc.) as a **senior collaborator in the loop** — leveraging them to move faster while maintaining full ownership of architecture and product decisions.
 
