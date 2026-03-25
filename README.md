@@ -46,7 +46,7 @@ I actively integrate AI Agents into my development workflow — not just as code
 ![MongoDB](https://img.shields.io/badge/MongoDB-1F6F43?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### State & UI
-![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logo=react&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -59,12 +59,12 @@ I actively integrate AI Agents into my development workflow — not just as code
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ### AI Tools & Agents
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
 
 ---
