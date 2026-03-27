@@ -6,7 +6,7 @@ My experience spans **frontend development**, **desktop applications**, **automa
 
 ---
 
-## 🤖 My Development Workflow with AI
+## <img src="https://play.pokemonshowdown.com/sprites/gen5ani/porygon2.gif" width="28" /> My Development Workflow with AI
 
 I build products through direct implementation — writing code, shaping flows, refining UX, and solving practical engineering problems across the stack.
 
@@ -29,7 +29,7 @@ I see AI as a productivity multiplier under my direction, while I stay fully res
 > My strength is combining hands-on implementation ability with an AI-augmented workflow — building directly, thinking critically, and using modern tools to move faster without giving up ownership.
 ---
 
-## 🔨 Tech Stack
+## <img src="https://play.pokemonshowdown.com/sprites/gen5ani/magnemite.gif" width="28" /> Tech Stack
 
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -75,7 +75,7 @@ I see AI as a productivity multiplier under my direction, while I stay fully res
 
 ---
 
-## 👋🏼 About Me
+## <img src="https://play.pokemonshowdown.com/sprites/gen5ani/totodile.gif" width="28" /> About Me
 
 - I enjoy building polished, user-focused products with strong attention to UI/UX
 - I work hands-on across frontend, desktop applications, automation tools, and backend-connected workflows
@@ -85,7 +85,7 @@ I see AI as a productivity multiplier under my direction, while I stay fully res
 
 ---
 
-## 🔥 Featured Interests
+## <img src="https://play.pokemonshowdown.com/sprites/gen5ani/cyndaquil.gif" width="28" /> Featured Interests
 
 - Building product-focused frontend experiences
 - Developing polished desktop applications
