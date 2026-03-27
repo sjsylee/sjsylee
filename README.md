@@ -1,5 +1,5 @@
 # Hello there! 👋  
-I'm a product-minded developer who enjoys turning complex ideas into polished, practical products.
+I'm a developer who enjoys turning complex ideas into polished, practical products.
 
 I build user-centered solutions with a strong focus on **UI/UX**, **real-world problem solving**, and **end-to-end implementation**.  
 My experience spans **frontend development**, **desktop applications**, **automation tools**, and **backend-driven workflows**.
