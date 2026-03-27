@@ -6,17 +6,6 @@ My experience spans **frontend development**, **desktop applications**, **automa
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjsylee&show_icons=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjsylee&theme=transparent" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsylee&theme=github-compact" />
-</p>
-
----
-
 ## 🤖 My Development Workflow with AI
 
 I build products through direct implementation — writing code, shaping flows, refining UX, and solving practical engineering problems across the stack.
