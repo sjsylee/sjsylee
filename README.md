@@ -1,26 +1,43 @@
-Product-minded developer who turns complex ideas into polished, practical user experiences.
-I build user-centered products with a strong focus on UI/UX, real-world problem solving, and end-to-end implementation.  
-My experience spans frontend development, desktop applications, automation tools, and backend-driven workflows.
+# Hello there! 👋  
+I'm a product-minded developer who enjoys turning complex ideas into polished, practical products.
+
+I build user-centered solutions with a strong focus on **UI/UX**, **real-world problem solving**, and **end-to-end implementation**.  
+My experience spans **frontend development**, **desktop applications**, **automation tools**, and **backend-driven workflows**.
 
 ---
 
-## 🤖 AI-Augmented Development
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjsylee&show_icons=true&theme=transparent" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjsylee&theme=transparent" height="165" />
+</p>
 
-I actively integrate AI Agents into my development workflow — not just as code assistants, but as **collaborative problem-solving partners** across the full product lifecycle.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsylee&theme=github-compact" />
+</p>
+
+---
+
+## 🤖 My Development Workflow with AI
+
+I build products through direct implementation — writing code, shaping flows, refining UX, and solving practical engineering problems across the stack.
+
+Alongside that hands-on experience, I actively use AI tools to accelerate ideation, coding, testing, refactoring, and documentation.  
+My goal is not to depend on AI, but to use it effectively as part of a modern development workflow.
+
+I see AI as a productivity multiplier under my direction, while I stay fully responsible for architecture, code quality, and final decisions.
 
 ### How I work with AI Agents
 
-| Phase | How AI Agents Are Involved |
-|---|---|
-| 🧩 **Product Thinking** | Requirement breakdown, edge case discovery, UX critique |
-| 🎨 **UI/UX Design** | Component architecture suggestions, design system consistency checks |
-| 💻 **Development** | Pair programming, code review, refactoring, boilerplate generation |
-| 🧪 **QA & Testing** | Test case generation, selector writing for Playwright/Puppeteer |
-| 📦 **Automation** | Workflow scripting, data pipeline drafting, CI/CD config |
-| 📝 **Documentation** | API docs, inline comments |
+| Area | What I Lead | How AI Helps |
+|---|---|---|
+| 🧩 Product Thinking | Define requirements, priorities, and edge cases | Helps explore alternatives and uncover blind spots |
+| 🎨 UI/UX Design | Design flows, refine usability, shape interfaces | Supports component ideas and consistency checks |
+| 💻 Development | Implement logic, structure code, review quality | Assists with refactoring, boilerplate, and comparison of approaches |
+| 🧪 QA & Testing | Decide coverage and expected behavior | Helps generate test cases and test scaffolding |
+| 📦 Automation | Build workflows and system connections | Supports scripting and repetitive setup tasks |
+| 📝 Documentation | Organize technical intent and communication | Helps draft and polish documentation |
 
-> I treat AI Agents (Claude, ChatGPT, etc.) as a **senior collaborator in the loop** — leveraging them to move faster while maintaining full ownership of architecture and product decisions.
-
+> My strength is combining hands-on implementation ability with an AI-augmented workflow — building directly, thinking critically, and using modern tools to move faster without giving up ownership.
 ---
 
 ## 🔨 Tech Stack
