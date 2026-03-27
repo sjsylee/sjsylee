@@ -77,19 +77,19 @@ I see AI as a productivity multiplier under my direction, while I stay fully res
 
 ## 👋🏼 About Me
 
-- Building polished, user-focused products with a strong attention to UI/UX
-- Experienced in React, Next.js, Electron, and Python-based workflows
-- Integrate AI Agents (Claude, ChatGPT) as active collaborators across design, development, and automation stages
-- Interested in practical automation, desktop applications, and product-driven development
-- Focused on turning complex requirements into intuitive and reliable solutions
+- I enjoy building polished, user-focused products with strong attention to UI/UX
+- I work hands-on across frontend, desktop applications, automation tools, and backend-connected workflows
+- I like turning complex requirements into clear product flows and practical implementations
+- I actively use AI tools to improve speed and exploration, while keeping ownership of architecture and decisions
+- I care about building solutions that are intuitive, reliable, and useful in real-world contexts
 
 ---
 
 ## 🔥 Featured Interests
 
-- Frontend Engineering
-- Desktop Application Development
-- UI/UX Implementation
-- Automation Tools
-- **AI Agent-Augmented Development Workflows**
-- Backend-Driven Product Workflows
+- Building product-focused frontend experiences
+- Developing polished desktop applications
+- Designing intuitive UI/UX flows
+- Creating practical automation tools and workflows
+- Integrating AI into modern development processes
+- Connecting frontend experiences with backend-driven systems
