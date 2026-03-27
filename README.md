@@ -1,4 +1,4 @@
-# Hello there! <img src="https://play.pokemonshowdown.com/sprites/ani/totodile.gif" width="36" />
+# Hello there! 👋
 I'm a developer who enjoys turning complex ideas into polished, practical products.
 
 I build user-centered solutions with a strong focus on **UI/UX**, **real-world problem solving**, and **end-to-end implementation**.  
