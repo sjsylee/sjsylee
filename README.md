@@ -29,48 +29,15 @@ My approach: get clear on the problem before coding, work with tight feedback lo
 
 ## <img src="https://play.pokemonshowdown.com/sprites/gen5ani/magnemite.gif" width="28" /> Tech Stack
 
-### Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Desktop
-![Electron](https://img.shields.io/badge/Electron-1F2233?style=for-the-badge&logo=electron&logoColor=9FEAF9)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-2F7D32?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0E9F8E?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0F3B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-1F6F43?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### State & UI
-![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logo=react&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Automation
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-### AI Tools & Agents
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white)
+|  |  |
+| --- | --- |
+| **Frontend & UI** | [![](https://skillicons.dev/icons?i=ts,react,nextjs,vite,tailwind)](https://skillicons.dev) ![Ant Design](https://img.shields.io/badge/Ant_Design-1677FF?style=for-the-badge&logo=antdesign&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-4B3A2F?style=for-the-badge&logo=react&logoColor=white) |
+| **Desktop** | [![](https://skillicons.dev/icons?i=electron)](https://skillicons.dev) |
+| **Backend** | [![](https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi)](https://skillicons.dev) |
+| **Database** | [![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb)](https://skillicons.dev) |
+| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) |
+| **DevOps & Infra** | [![](https://skillicons.dev/icons?i=docker,githubactions,aws,cloudflare)](https://skillicons.dev) |
+| **AI Tools & Agents** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![OpenCode](https://img.shields.io/badge/OpenCode-111111?style=for-the-badge&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white) |
 
 ---
 
